@@ -1,2 +1,2 @@
-# brain_detection_machine_learning
+# brain_tumor_detection_machine_learning
 development machine learning for detect brain tumor
