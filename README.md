@@ -2,5 +2,5 @@
 development machine learning for detect brain tumor
 This project is maintained and developed by:
   
-- [Collaborator A](https://github.com/Nakano079)  
-- [Collaborator B](https://github.com/Ikhsanmn)  
+- [Nakano](https://github.com/Nakano079)  
+- [Ikhsan](https://github.com/Ikhsanmn)  
