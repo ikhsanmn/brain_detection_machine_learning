@@ -2,7 +2,7 @@
 development machine learning for detect brain tumor
 This project is maintained and developed by:
 
-- [Ibuki] 
+- [Ibuki]()
 - [Nakano](https://github.com/Nakano079)  
 - [Ikhsan](https://github.com/Ikhsanmn)  
-- [Sheng Liu]
+- [Sheng Liu]()
